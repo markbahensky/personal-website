@@ -6,7 +6,7 @@ I am a student in Carleton University's journalism program.
 
 ### Curriculum Vitae
 
-
+[Curriculum Vitae](SampleCV.pdf)
 
 ### Social Media
 
