@@ -4,6 +4,10 @@
 
 I am a student in Carleton University's journalism program.
 
+### Curriculum Vitae
+
+
+
 ### Social Media
 
 [Twitter](https://twitter.com/BahenskyMark/) |
