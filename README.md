@@ -10,7 +10,7 @@ I am a student in Carleton University's journalism program.
 
 ### Social Media
 
-[Twitter](https://twitter.com/BahenskyMark/) |
+[Twitter](https://twitter.com/BahenskyMark/) \|
 [LinkedIn](https://ca.linkedin.com/in/mark-bahensky-44b41a15b)
 
 ## Published Works
