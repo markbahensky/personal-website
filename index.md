@@ -1,3 +1,5 @@
+### [Sports](https://www.markbahensky.com) \| [News](https://www.markbahensky.com) \| [Video](https://www.markbahensky.com) \| [Photography](https://www.markbahensky.com) \| [About & Contact](about.md)
+
 ![Headshot](MarkBahensky_Headshot.jpg)
 
 ## Thanks for visiting!
