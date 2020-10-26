@@ -1,4 +1,4 @@
-### <span style="color:red">[Home](https://www.markbahensky.com) \| [About](about.md) \| [Sports](sports.md) \| [News](news.md) \| [Video](video.md) \| [Photography](photography.md) \| [Contact](contact.md)</span>
+### [<span style="color:red">Home</span>](https://www.markbahensky.com) \| [About](about.md) \| [Sports](sports.md) \| [News](news.md) \| [Video](video.md) \| [Photography](photography.md) \| [Contact](contact.md)
 _____
 
 ![Headshot](MarkBahensky_Headshot.jpg)
