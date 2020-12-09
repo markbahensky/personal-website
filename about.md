@@ -11,4 +11,8 @@ _____
 
 ## About
 
+An innate curiosity in the world around us drives my interest in seeing how other people interact with it.
+
+I'm a multimedia journalist with experience in reporting, sports, and television. I've been drawn to sports journalism since I was young, experiencing the variety of mental, social, and physical benefits that sports can provide. I hope to introduce people to sports through stories of those in the community.
+
 Mark Bahensky is a journalism student at Carleton University in Ottawa.
